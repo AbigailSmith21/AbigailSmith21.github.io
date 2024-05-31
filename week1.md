@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Abigail Fisher
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
-
-[Back](./)
+During this week, I met with my Faculty mentor, group members and also my project mentor. My faculty mentor, which is Dr. Saroj spoke to us as well as my other mentor (Blessing). They went over several things that was relating to the project. Also, it was great that all my group members were present as we go throughout the things that are required for us to proceed this project. In addition, regarding to the different classes/sessions that we had; it was great and everything. I can say that I was exposed to a lot of new things. I really enjoyed Python 101 class, and the speakers make it more easier so that was great. Moreover, after my session with my mentor, she told us that we should start finding sources for our project and some other things relating to our sources, for example the different models and if there is like any limitations. I completed yesterday, it was a little draining because it takes time to evaluate/analyze and then I completed it after yesterday's session. Also, being that yesterday was a very informative and fast day, I still try to finish that assignment, so that was great for the most part. So for my assignment, I basically just went on the schloar links that my mentor provided me with and then type into the search bar, thinks lik 'Plant diseases detection using AI, Plant detection etc' to find different sources. As I mentioned, it was a heavy week with learning new things, the frustrating part was trying to know it all at the same time. Also, I think I got frustrated learning about Numpy, so I will try to recap and gain better understanding on the different steps etc. Furthermore, it was a great week, I enjoy being around others and just learning new things is actually a big flex for me. 
