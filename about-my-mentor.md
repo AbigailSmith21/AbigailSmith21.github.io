@@ -1,6 +1,6 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+My mentor, Blessing Adeika from Morgan State University,she is a researcher who’s interest focuses on AI/ML applications in Neuroscience and Disease Detection. Miss Adeika, has a Ph.D Computer and Electrical Systems;her previous research includes DNA Sequencing using ML. In addition, she is the Author for "Ensemble and Transformer Models for Infectious Disease Prediction".
 
 [Mentor's Website](https://htilua.org/about-the-pi)
 
