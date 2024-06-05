@@ -1,6 +1,6 @@
 ## About My Project
 
-mBot Neo
+Plant Leaf Disease Detection in Fruit Cultivation with Machine Learning Models
 
 Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
 
