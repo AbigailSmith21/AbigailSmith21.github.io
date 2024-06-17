@@ -1,10 +1,9 @@
 ---
 layout: post
-title: week3.md
-date:6/14/2024
+title: Week 3
 by: Abigail Fisher
 ---
-
+Abigail Fisher
 
   The weeks are swifting like they on the highway! Week 3 has been a great week,feels like it has been a productive week, along side with the previous weeks.Starting off the week we had another great literature session with Dr.Pandey. This week I covered part of NumPy tutorial, it was in fact, a great week wrapping up NumPy, I feel like I enjoyed doing Numpy than the Python syntax I did last week. Some interesting things about NumPy is that it is faster than the other python libraries.
 
