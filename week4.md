@@ -14,4 +14,4 @@ Abigail Fisher
  For the following day, we celebrated Juneteeth, so we got a day off from work, however, I tried to continued and completed Pandas tutorial. 
 
 
- Furthermore,........
+ Furthermore, I did not get to go to NASA unfortunately, but I had more of a productive day,as well as a relaxing day in the lab. For this session, I went over OpenCV tutorial and gain more understanding on that. Also, make sure that I did my reviews on different videos on canvas. It felt like a fast week; I think Juneteenth had that impact and then the trip to NASA , but I believe I was able to overcome and accomplished the different task/ assignments for this week.Looking forward for a great upcoming week, have a good one. 
